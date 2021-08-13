@@ -1,0 +1,5 @@
+miles = input("How many miles did you ride today ? ")
+print(f"you said you rode {miles} miles!")
+print(f"Converting {miles} miles to kms now ......." )
+kms = round(int(miles) * 1.60934)
+print(f"ok, your {miles} mile ride is approximately equal to {kms} kms")
