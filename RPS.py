@@ -1,3 +1,10 @@
+'''
+...Rock...
+......Paper......
+.........Scissors.........
+'''
+
+
 from random import choice
 
 rps_list = ['Rock', 'Paper', 'Scissors']
